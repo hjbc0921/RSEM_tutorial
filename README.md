@@ -1,4 +1,4 @@
-## Refer to the wiki of this repo for the specific settings frequently used in Bioinformatics
+### Refer to the wiki of this repo for the specific settings frequently used in Bioinformatics
 
 # A Short Tutorial for RSEM
 
